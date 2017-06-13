@@ -1,0 +1,29 @@
+{
+  "name": "zoomus",
+  "version": "0.1.0",
+  "description": "Zoom Library for Node.js",
+  "keywords": [
+    "zoom",
+    "video",
+    "api"
+  ],
+  "homepage": "https://github.com/zoom/zoom-lib-node",
+  "author": "Zoom Video Communications <developer@zoom.us>",
+  "contributors": [
+    "Joshua Woodward <joshua.woodward@zoom.us>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoom/zoom-lib-node.git"
+  },
+  "bugs:": "https://github.com/zoom/zoom-lib-node/issues",
+  "engines": {
+    "node": ">= v0.10.0"
+  },
+  "main": "lib/zoom.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.isplainobject": "^4.0.6",
+    "qs": "^6.4.0"
+  }
+}
