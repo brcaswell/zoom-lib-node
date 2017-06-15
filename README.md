@@ -10,7 +10,7 @@ You can install this package with `npm`
 
 ### Documentation
 
-Documentation is available on the [Zoom REST API docs site](https://zoom.github.io/api)
+Documentation is available on the [Zoom REST API docs site](https://zoom.github.io/api/?javascript)
 
 
 ### Quick Start
@@ -28,8 +28,8 @@ var user = {
     type: 1
 };
 
-Zoom.user.create(user, function(err, res){
-    if(err){
+Zoom.user.create(user, function(res){
+    if(res.error){
         //handle error
     } else {
         //res is user object
