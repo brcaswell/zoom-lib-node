@@ -1,5 +1,7 @@
 # Zoom Library for Node.js
 
+> This library is for Version 1 of the [Zoom API](https://zoom.github.io/api-v1/)
+
 ## Getting started
 
 ### Install
@@ -10,7 +12,7 @@ You can install this package with `npm`
 
 ### Documentation
 
-Documentation is available on the [Zoom REST API docs site](https://zoom.github.io/api/?javascript)
+Documentation is available on the [Zoom REST API docs site](https://zoom.github.io/api-v1/?javascript)
 
 
 ### Quick Start
