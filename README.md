@@ -14,6 +14,9 @@ You can install this package with `npm`
 
 Documentation is available on the [Zoom REST API docs site](https://zoom.github.io/api-v1/?javascript)
 
+## Support
+For any questions or issues, please visit our new Community Support Forum at https://devforum.zoom.us/
+
 
 ### Quick Start
 
